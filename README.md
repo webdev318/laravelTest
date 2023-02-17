@@ -6,3 +6,5 @@
 4. Run `composer run-script post-create-project-cmd` to generate your application key.
 5. Open your `.env` and configure your database credentials.
 6. Run `php artisan migrate --seed`
+
+Implemented this by Rafael
