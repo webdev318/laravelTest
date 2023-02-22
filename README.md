@@ -7,4 +7,7 @@
 5. Open your `.env` and configure your database credentials.
 6. Run `php artisan migrate --seed`
 
-Implemented this by Rafael
+
+I would like to contact you via skype or telegram
+My address is skype live:.cid.52bd20abf27c362c  and  telegram  thedevhuman
+good luck,
