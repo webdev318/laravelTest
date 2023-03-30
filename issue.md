@@ -9,5 +9,5 @@
 
 
 I want to discuss more details via skype or telegram. my address is:
-             skypeName:webdev318 or live:.cid.b310d3df4207a044
+             skypeName: live:.cid.b310d3df4207a044
              telegram: Dev Human
